@@ -14,7 +14,7 @@ const GlobalStyles = createGlobalStyle`
     h2 {
         font-family: 'Outfit';
         font-style: normal;
-        font-weight: 900;
+        font-weight: 700;
         font-size: 22px;
         line-height: 28px;
         text-align: center;
