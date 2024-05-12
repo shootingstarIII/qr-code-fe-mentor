@@ -14,12 +14,11 @@ const GlobalStyles = createGlobalStyle`
     h2 {
         font-family: 'Outfit';
         font-style: normal;
-        font-weight: 700;
+        font-weight: 900;
         font-size: 22px;
         line-height: 28px;
         text-align: center;
-        text-shadow: #000 1px 0 2px;
-        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        color: #1F314F;
     }
 
     p {
