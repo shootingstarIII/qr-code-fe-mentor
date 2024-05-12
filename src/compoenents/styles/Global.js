@@ -12,12 +12,10 @@ const GlobalStyles = createGlobalStyle`
     }
 
     h2 {
-        font-family: 'Outfit', sans-serif;
+        font-family: 'Outfit';
         font-style: normal;
-        font-weight: 1000;
+        font-weight: 700;
         font-size: 22px;
-        word-spacing: -1px;
-        letter-spacing: -2px;
         line-height: 28px;
         text-align: center;
         text-shadow: #000 1px 0 2px;
